@@ -5,7 +5,7 @@ from frappe import _
 def get_data():
 	return {
 		"planning": {
-			"color": "brown",
+			"color": "PaleVioletRed",
 			"icon": "icon-umbrella",
 			"type": "page",
 			"link": "planning",
