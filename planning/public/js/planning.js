@@ -5,6 +5,6 @@ window.onload = function () {
             w.close()
             window.open('https://client.loginextsolutions.com/TrackAPack/MasterController', '_blank')
             window.location = "/desk"
-        }, 2000)
+        }, 3000)
     }
 }
